@@ -1,0 +1,152 @@
+.e0cf230614f4aB32e541e590b9Icon {
+  position: absolute;
+  bottom: -14px;
+  left: 0;
+  width: 927px;
+  height: 917px;
+  object-fit: cover;
+}
+.component3Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.currculoLattes {
+  position: absolute;
+  top: 32%;
+  left: 30.43%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+}
+.component3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  width: 22.77%;
+  right: 20.86%;
+  bottom: 174px;
+  left: 56.37%;
+  height: 50px;
+}
+.component1Child {
+  border: 0;
+  background-color: var(--color-lightskyblue);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+}
+.dissertaoDeMestrado {
+  position: absolute;
+  top: 26.53%;
+  left: 15.6%;
+}
+.component1 {
+  position: absolute;
+  width: 22.77%;
+  right: 34.75%;
+  bottom: 84px;
+  left: 42.48%;
+  height: 49px;
+  cursor: pointer;
+}
+.component2Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-lightskyblue);
+}
+.teseDeDoutorado {
+  position: absolute;
+  top: 27.08%;
+  left: 19.03%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+}
+.component2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  width: 18.66%;
+  right: 10.24%;
+  bottom: 83px;
+  left: 71.1%;
+  height: 48px;
+}
+.vectorIcon {
+  position: relative;
+  width: 44px;
+  height: 38px;
+}
+.iconParkOutlineback {
+  position: absolute;
+  top: 53px;
+  right: 44px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-6xs) var(--padding-9xs);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.alencarinoNascidoEm {
+  margin: 0;
+}
+.alencarinoNascidoEmContainer {
+  position: absolute;
+  top: 177px;
+  right: 146px;
+  font-size: 18px;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  width: 660px;
+  height: 626px;
+}
+.sobreIcon {
+  position: absolute;
+  top: 58px;
+  left: 929.89px;
+  width: 90.32px;
+  height: 27.35px;
+}
+.sobre {
+  position: relative;
+  background-color: var(--color-steelblue);
+  backdrop-filter: blur(4px);
+  width: 100%;
+  height: 1002px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

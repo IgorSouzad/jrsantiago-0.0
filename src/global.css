@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Allerta:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-allerta: Allerta;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-17xl: 36px;
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-steelblue: #117898;
+  --color-white: #fff;
+  --color-lightskyblue: rgba(119, 187, 225, 0.78);
+
+  /* Paddings */
+  --padding-6xs: 7px;
+  --padding-9xs: 4px;
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-150xl-5: 169.5px;
+  --br-4xl: 23px;
+  --br-109xl-5: 128.5px;
+  --br-81xl: 100px;
+}

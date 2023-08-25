@@ -1,0 +1,699 @@
+.maiorAcervoDe {
+  margin: 0;
+}
+.maiorAcervoDeContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.maiorAcervoDeContainer {
+  position: absolute;
+  top: 1773px;
+  left: calc(50% - 192px);
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 377px;
+}
+.maiorAcervoDeContainer2 {
+  position: absolute;
+  top: 5836px;
+  left: calc(50% - 154px);
+}
+.distintivosMaisCuriososContainer {
+  position: absolute;
+  top: 6208px;
+  left: calc(50% - 191px);
+}
+.maiorAcervoDeContainer3 {
+  position: absolute;
+  top: 2383px;
+  left: calc(50% - 162px);
+}
+.maiorAcervoDeContainer4 {
+  position: absolute;
+  top: 2081px;
+  left: calc(50% - 211px);
+  display: flex;
+  align-items: center;
+  width: 415px;
+}
+.florestaEsporteClubeContainer {
+  position: absolute;
+  top: 2699px;
+  left: calc(50% - 125px);
+}
+.osDistintivosDeContainer {
+  position: absolute;
+  top: 3017px;
+  left: calc(50% - 219px);
+}
+.diaEmMemriaContainer {
+  position: absolute;
+  top: 3316px;
+  left: calc(50% - 151px);
+}
+.artigoPublicadoBlogContainer {
+  position: absolute;
+  top: 3626px;
+  left: calc(50% - 93px);
+}
+.lanamentoDeLivroContainer {
+  position: absolute;
+  top: 3946px;
+  left: calc(50% - 258px);
+  display: flex;
+  align-items: center;
+  width: 508px;
+}
+.lanamentoDeLivroContainer2 {
+  position: absolute;
+  top: 4264px;
+  left: calc(50% - 204px);
+}
+.almanaqueFernandoStiroContainer {
+  position: absolute;
+  top: 4911px;
+  left: calc(50% - 148px);
+}
+.almanaqueClssicoReiDirioContainer {
+  position: absolute;
+  top: 5225px;
+  left: calc(50% - 134px);
+}
+.livroGestoDoContainer {
+  position: absolute;
+  top: 5531px;
+  left: calc(50% - 237px);
+}
+.image22Icon,
+.image25Icon,
+.joseRenato1Icon {
+  position: absolute;
+  top: 1579px;
+  left: calc(50% - 97px);
+  border-radius: 104.5px;
+  width: 184px;
+  height: 189px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image25Icon,
+.joseRenato1Icon {
+  top: 1895px;
+  left: calc(50% - 95px);
+  border-radius: 93.5px;
+  width: 181px;
+  height: 173px;
+}
+.joseRenato1Icon {
+  top: 2487px;
+  left: calc(50% - 96px);
+  border-radius: 170px;
+  width: 182px;
+  height: 177px;
+}
+.image29Icon {
+  top: 2807px;
+  left: calc(50% - 95px);
+  border-radius: 91px;
+  width: 182px;
+  height: 193px;
+}
+.image27Icon,
+.image29Icon,
+.image32Icon {
+  position: absolute;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image27Icon {
+  top: 2183px;
+  left: calc(50% - 94px);
+  border-radius: 114.5px;
+  width: 180px;
+  height: 188px;
+}
+.image32Icon {
+  top: 3753px;
+  left: calc(50% - 92px);
+  border-radius: var(--br-109xl-5);
+  width: 177px;
+  height: 172px;
+}
+.image23Icon {
+  top: 4064px;
+  left: calc(50% - 95px);
+  border-radius: 126px;
+  width: 180px;
+  height: 180px;
+  cursor: pointer;
+}
+.image23Icon,
+.image24Icon,
+.image28Icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image28Icon {
+  top: 4704px;
+  left: calc(50% - 94px);
+  border-radius: 111px;
+  width: 181px;
+  height: 183px;
+  cursor: pointer;
+}
+.image24Icon {
+  top: 4376px;
+  left: calc(50% - 93px);
+  border-radius: 105.5px;
+  width: 180px;
+  height: 185px;
+}
+.eventoMarcosDoContainer {
+  position: absolute;
+  top: 4576px;
+  left: calc(50% - 196px);
+}
+.image30Icon,
+.image31Icon,
+.image34Icon,
+.image36Icon {
+  position: absolute;
+  top: 5023px;
+  left: calc(50% - 94px);
+  border-radius: 225px;
+  width: 178px;
+  height: 188px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image31Icon,
+.image34Icon,
+.image36Icon {
+  top: 5344px;
+  left: calc(50% - 95px);
+  border-radius: 246px;
+  width: 179px;
+  height: 172px;
+}
+.image34Icon,
+.image36Icon {
+  top: 5663px;
+  left: calc(50% - 97px);
+  border-radius: 95px;
+  width: 181px;
+  height: 190px;
+}
+.image34Icon {
+  top: 6013px;
+  border-radius: 150px;
+  width: 184px;
+  height: 181px;
+}
+.ttuloDeCidado {
+  position: absolute;
+  top: calc(50% - 5533.5px);
+  left: calc(50% - 145px);
+  font-family: var(--font-allerta);
+}
+.ttuloDeCidado1 {
+  position: absolute;
+  top: 723px;
+  left: calc(50% - 95px);
+  border-radius: var(--br-109xl-5);
+  width: 182px;
+  height: 174px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.brasileirosDeCoraoContainer {
+  position: absolute;
+  bottom: 2177px;
+  left: calc(50% - 342px);
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 241px;
+  height: 17px;
+}
+.batePapoSobreContainer,
+.diaEmMemria1,
+.entrevistaAoJornalistaContainer,
+.guinessWorldRecords,
+.osMaioresAmuletos {
+  position: absolute;
+  bottom: 2109px;
+  left: calc(50% + 86px);
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 244px;
+  height: 85px;
+}
+.batePapoSobreContainer,
+.diaEmMemria1,
+.entrevistaAoJornalistaContainer,
+.osMaioresAmuletos {
+  bottom: 1477px;
+  left: calc(50% - 369px);
+  width: 290px;
+  height: 72px;
+}
+.batePapoSobreContainer,
+.entrevistaAoJornalistaContainer,
+.osMaioresAmuletos {
+  bottom: 1469px;
+  left: calc(50% - 53px);
+  width: 535px;
+  height: 85px;
+}
+.entrevistaAoJornalistaContainer,
+.osMaioresAmuletos {
+  bottom: 1138px;
+  left: calc(50% - 377px);
+  width: 308px;
+  height: 75px;
+}
+.entrevistaAoJornalistaContainer {
+  bottom: 1146px;
+  left: calc(50% + 1px);
+  width: 427px;
+  height: 68px;
+}
+.entrevistaBomDiaContainer {
+  bottom: 1823px;
+  left: calc(50% - 388px);
+  white-space: pre-wrap;
+  width: 321px;
+  height: 17px;
+}
+.entrevistaBomDiaContainer,
+.programaCaosHistoryContainer,
+.programaLoucosPorContainer {
+  position: absolute;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.programaCaosHistoryContainer {
+  width: 20.21%;
+  bottom: 1803px;
+  left: 55%;
+  height: 33px;
+}
+.programaLoucosPorContainer {
+  bottom: 790px;
+  left: calc(50% + 58px);
+  width: 298px;
+  height: 73px;
+}
+.image9Icon {
+  position: absolute;
+  bottom: 2536px;
+  left: calc(50% - 358px);
+  border-radius: 30px;
+  width: 280px;
+  height: 191px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image8Icon {
+  bottom: 2536px;
+  left: calc(50% + 73px);
+  border-radius: 27px;
+  height: 189px;
+}
+.image41Icon,
+.image50Icon,
+.image8Icon {
+  position: absolute;
+  width: 283px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image50Icon {
+  bottom: 1848px;
+  left: calc(50% + 73px);
+  border-radius: var(--br-4xl);
+  height: 194px;
+}
+.image41Icon {
+  bottom: 871px;
+  left: calc(50% + 66px);
+  border-radius: 29px;
+  height: 177px;
+}
+.image43Icon,
+.image45Icon,
+.image46Icon {
+  position: absolute;
+  bottom: 1557px;
+  left: calc(50% - 368px);
+  border-radius: var(--br-4xl);
+  width: 290px;
+  height: 174px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image45Icon,
+.image46Icon {
+  left: calc(50% + 73px);
+  width: 283px;
+  height: 182px;
+}
+.image46Icon {
+  bottom: 1220px;
+  height: 186px;
+}
+.image47Icon,
+.image48Icon {
+  left: calc(50% - 368px);
+  border-radius: var(--br-4xl);
+}
+.image47Icon {
+  position: absolute;
+  bottom: 1221px;
+  width: 294px;
+  height: 184px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image48Icon {
+  bottom: 2197px;
+  width: 293px;
+  height: 197px;
+}
+.image40Icon,
+.image44Icon,
+.image48Icon,
+.image49Icon {
+  position: absolute;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image49Icon {
+  bottom: 2196px;
+  left: calc(50% + 73px);
+  border-radius: var(--br-4xl);
+  width: 283px;
+  height: 197px;
+}
+.image40Icon,
+.image44Icon {
+  left: calc(50% - 368px);
+}
+.image44Icon {
+  bottom: 1848px;
+  border-radius: var(--br-4xl);
+  width: 290px;
+  height: 185px;
+}
+.image40Icon {
+  bottom: 866px;
+  border-radius: 31px;
+  width: 291px;
+  height: 181px;
+}
+.entrevistas1 {
+  position: absolute;
+  width: 18.33%;
+  top: calc(50% + 2301.5px);
+  left: 39.72%;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #fff;
+}
+.entrevistaJosRenatoContainer,
+.programaLoucosPorContainer1,
+.srieColecionadoresGloboContainer {
+  position: absolute;
+  bottom: 2463px;
+  left: calc(50% - 368px);
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 293px;
+  height: 63px;
+}
+.programaLoucosPorContainer1,
+.srieColecionadoresGloboContainer {
+  bottom: 789px;
+  left: calc(50% - 434px);
+  width: 427px;
+  height: 70px;
+}
+.srieColecionadoresGloboContainer {
+  bottom: 2453px;
+  left: calc(50% + 66px);
+  width: 284px;
+  height: 69px;
+}
+.algumasEntrevistasE {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 683px;
+  flex-shrink: 0;
+}
+.algumasEntrevistasEReportagWrapper,
+.notciasEntrevistas {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.algumasEntrevistasEReportagWrapper {
+  top: 164px;
+  left: calc(50% - 314px);
+  width: 693px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.notciasEntrevistas {
+  top: 71px;
+  left: calc(50% - 165px);
+  font-size: var(--font-size-17xl);
+  width: 359.62px;
+}
+.entrevistasChild {
+  position: absolute;
+  top: 317px;
+  left: calc(50% - 126px);
+  border-radius: var(--br-150xl-5);
+  background-color: var(--color-white);
+  width: 251px;
+  height: 251px;
+}
+.yt1Icon {
+  position: absolute;
+  top: 326px;
+  left: calc(50% - 116px);
+  border-radius: 204.5px;
+  width: 233px;
+  height: 233px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.joserenatosantiago {
+  position: absolute;
+  top: 5.61%;
+  left: calc(50% - 124px);
+  font-size: var(--font-size-xl);
+}
+.image70Icon {
+  position: absolute;
+  top: 988px;
+  left: calc(50% - 95px);
+  border-radius: 447.5px;
+  width: 182px;
+  height: 183px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.guinnessWorldRecords {
+  position: absolute;
+  top: 1187px;
+  left: calc(50% - 168px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 329px;
+}
+.ttuloDeCidado2 {
+  position: absolute;
+  top: 909px;
+  left: calc(50% - 167px);
+}
+.guinnessWorldRecordsContainer {
+  position: absolute;
+  top: 1492px;
+  left: calc(50% - 208px);
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 408px;
+}
+.image72Icon {
+  position: absolute;
+  bottom: 487px;
+  left: calc(50% - 368px);
+  border-radius: var(--br-4xl);
+  width: 291px;
+  height: 231px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.entrevistaSobreOContainer {
+  position: absolute;
+  bottom: 443px;
+  left: calc(50% - 415px);
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 394px;
+}
+.image73Icon {
+  position: absolute;
+  bottom: 487px;
+  left: calc(50% + 66px);
+  border-radius: var(--br-4xl);
+  width: 283px;
+  height: 230px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.entrevistaTvVozoContainer {
+  position: absolute;
+  bottom: 437px;
+  left: calc(50% + 91px);
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 250px;
+}
+.image75Icon {
+  top: 3122px;
+  left: calc(50% - 93px);
+  border-radius: 149px;
+  width: 179px;
+  height: 176px;
+}
+.image73Icon1,
+.image75Icon,
+.image76Icon,
+.image78Icon {
+  position: absolute;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image76Icon {
+  top: 3432px;
+  left: calc(50% - 93px);
+  border-radius: 400.5px;
+  width: 180px;
+  height: 181px;
+}
+.image73Icon1,
+.image78Icon {
+  top: 1298px;
+  left: calc(50% - 95px);
+  width: 182px;
+  height: 188px;
+}
+.image78Icon {
+  top: 6344px;
+  left: calc(50% - 94px);
+  border-radius: 382px;
+  width: 179px;
+  height: 178px;
+}
+.osMaioresClssicos {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.osMaioresClssicosContainer {
+  position: absolute;
+  top: 6536px;
+  left: calc(50% - 282px);
+  display: flex;
+  align-items: center;
+  width: 565px;
+}
+.image79Icon {
+  position: absolute;
+  top: 6657px;
+  left: calc(50% - 94px);
+  border-radius: 377.5px;
+  width: 190px;
+  height: 187px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image80Icon,
+.oCraqueDoContainer {
+  position: absolute;
+  top: 6858px;
+  left: calc(50% - 104px);
+}
+.image80Icon {
+  top: 7009px;
+  left: calc(50% - 94px);
+  border-radius: 348.5px;
+  width: 181px;
+  height: 182px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.artigosJosRenatoContainer {
+  position: absolute;
+  top: 7205px;
+  left: calc(50% - 122px);
+}
+.carbonarrowUpIcon {
+  position: absolute;
+  width: 4.03%;
+  right: 47.99%;
+  bottom: 181px;
+  left: 47.99%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 58px;
+  cursor: pointer;
+}
+.vectorIcon {
+  position: relative;
+  width: 44px;
+  height: 38px;
+}
+.iconParkOutlineback {
+  position: absolute;
+  top: 83px;
+  right: 161px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-6xs) var(--padding-9xs);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.entrevistas {
+  position: relative;
+  background-color: var(--color-steelblue);
+  backdrop-filter: blur(4px);
+  width: 100%;
+  height: 10315px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,109 @@
+.vectorIcon {
+  position: relative;
+  width: 44px;
+  height: 38px;
+}
+.iconParkOutlineback,
+.notciasEntrevistas {
+  cursor: pointer;
+  border: 0;
+  background-color: transparent;
+}
+.iconParkOutlineback {
+  padding: var(--padding-6xs) var(--padding-9xs);
+  position: absolute;
+  height: 5.33%;
+  top: 12.99%;
+  right: 125px;
+  bottom: 81.69%;
+  width: 48px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.notciasEntrevistas {
+  padding: 0;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+.artigosPublicaesWrapper,
+.notciasEntrevistasWrapper {
+  position: absolute;
+  left: calc(50% - 127px);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+}
+.notciasEntrevistasWrapper {
+  bottom: 363px;
+}
+.artigosPublicaesWrapper {
+  top: 402px;
+}
+.sobre1 {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.sobreWrapper {
+  position: absolute;
+  top: 331px;
+  left: calc(50% - 41px);
+  width: 83px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.josRenatoStiro {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  -webkit-text-stroke: 1px #fff;
+}
+.josRenatoStiroSantiagoJrWrapper {
+  position: absolute;
+  top: 89px;
+  left: calc(50% - 320px);
+  width: 689px;
+  height: 76px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.menu {
+  position: relative; /* Mantém o posicionamento relativo para o conteúdo */
+  width: 100%;
+  height: 901px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+
+.menu::before {
+  content: ""; /* Cria o pseudo-elemento */
+  position: fixed; /* Posiciona o retângulo fixo */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh; /* Tamanho da tela inteira */
+  background-color: var(--color-steelblue); /* Cor do retângulo */
+  z-index: -1; /* Coloca o retângulo atrás do conteúdo */
+}
