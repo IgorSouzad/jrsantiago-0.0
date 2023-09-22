@@ -1,10 +1,9 @@
 
-  # jrsantiago 0.0
+ #jrsantiago 0.0
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+   Observação: certifique-se de ter instalado o <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+   Para visualizar e executar o projeto:
+   1) Abra a pasta do projeto em <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+   2) No terminal, execute `npm install`
+   3) Execute `npm start` para visualizar o projeto no navegador
